@@ -1,6 +1,3 @@
-/* in a widget-tagged passage */
-/* usage: <<sip $somecollection>>
-
 <<widget sip>>
 	<<for _item range $args[0]>>
 			_item
